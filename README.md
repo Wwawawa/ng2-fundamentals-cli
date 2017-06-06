@@ -1,1 +1,1 @@
-# ng2-fundamentals.cli
+# ng2-fundamentals-cli
